@@ -29,7 +29,7 @@ int main() {
   int red = gdImageColorAllocate(im, 255, 0, 0);
   gdImageFill(im,0,0, white);
   
-
+  // Mảng dưới tương ứng với 12345674
   char numbs[35] = {1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1,1,0,0,1,1,1,0,1,0,0,0,0};
   //char numbs[1] = {1};
   int x1 =2, x2= 10;
